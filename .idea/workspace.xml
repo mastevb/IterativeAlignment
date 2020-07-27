@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fd62208-56ce-4e06-a54f-99933c96a6d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dhpRS64lYScgBkhRknBbJylYMp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Iterative_Alignment/peps/1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Process">
+    <configuration name="IterativeAlignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Additional Models for IEDB Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterative_Alignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterative_Alignment/IterativeAlignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Additional Models for IEDB Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterative_Alignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterative_Alignment/Process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Process" />
+        <item itemvalue="Python.IterativeAlignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd62208-56ce-4e06-a54f-99933c96a6d5" name="Default Changelist" comment="" />
+      <created>1592887170067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592887170067</updated>
+      <workItem from="1592887171672" duration="253000" />
+      <workItem from="1592887587492" duration="308000" />
+      <workItem from="1592887927040" duration="4052000" />
+      <workItem from="1592892557225" duration="133000" />
+      <workItem from="1592892826615" duration="1000" />
+      <workItem from="1592961788614" duration="1100000" />
+      <workItem from="1593452720438" duration="28000" />
+      <workItem from="1593452779408" duration="2728000" />
+      <workItem from="1593797984777" duration="12507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="979" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593591186392">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state x="979" y="498" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1331@0.23.2560.1331" timestamp="1593591186392" />
+    <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594360634486">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1331/-1366.439.1366.1001@0.23.2560.1331" timestamp="1594360634486" />
+    <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594195470358" />
+    <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1331@0.23.2560.1331" timestamp="1594197315793" />
+    <state x="179" y="449" key="#xdebugger.XInspectDialog" timestamp="1594283155197">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state x="179" y="449" key="#xdebugger.XInspectDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283155197" />
+    <state x="179" y="450" key="#xdebugger.XInspectDialog/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592888158190" />
+    <state width="2518" height="466" key="GridCell.Tab.0.bottom" timestamp="1595113955761">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom/0.23.2560.1328/-1366.578.1366.1001@0.23.2560.1328" timestamp="1593665779351" />
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom/0.23.2560.1331/-1366.439.1366.1001@0.23.2560.1331" timestamp="1594362203646" />
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
+    <state width="2518" height="466" key="GridCell.Tab.0.bottom/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
+    <state width="2518" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
+    <state width="2518" height="466" key="GridCell.Tab.0.center" timestamp="1595113955760">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
+    <state width="2518" height="379" key="GridCell.Tab.0.center/0.23.2560.1328/-1366.578.1366.1001@0.23.2560.1328" timestamp="1593665779350" />
+    <state width="2518" height="379" key="GridCell.Tab.0.center/0.23.2560.1331/-1366.439.1366.1001@0.23.2560.1331" timestamp="1594362203645" />
+    <state width="2518" height="379" key="GridCell.Tab.0.center/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
+    <state width="2518" height="466" key="GridCell.Tab.0.center/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
+    <state width="2518" height="381" key="GridCell.Tab.0.center/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791505" />
+    <state width="2518" height="466" key="GridCell.Tab.0.left" timestamp="1595113955760">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
+    <state width="2518" height="379" key="GridCell.Tab.0.left/0.23.2560.1328/-1366.578.1366.1001@0.23.2560.1328" timestamp="1593665779350" />
+    <state width="2518" height="379" key="GridCell.Tab.0.left/0.23.2560.1331/-1366.439.1366.1001@0.23.2560.1331" timestamp="1594362203644" />
+    <state width="2518" height="379" key="GridCell.Tab.0.left/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
+    <state width="2518" height="466" key="GridCell.Tab.0.left/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
+    <state width="2518" height="381" key="GridCell.Tab.0.left/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791504" />
+    <state width="2518" height="466" key="GridCell.Tab.0.right" timestamp="1595113955761">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right/0.23.2560.1328/-1366.578.1366.1001@0.23.2560.1328" timestamp="1593665779351" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right/0.23.2560.1331/-1366.439.1366.1001@0.23.2560.1331" timestamp="1594362203645" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
+    <state width="2518" height="466" key="GridCell.Tab.0.right/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
+    <state width="2518" height="381" key="GridCell.Tab.0.right/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
+    <state width="2518" height="466" key="GridCell.Tab.1.bottom" timestamp="1595113955762">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.1.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841240" />
+    <state width="2518" height="466" key="GridCell.Tab.1.bottom/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955762" />
+    <state width="2518" height="468" key="GridCell.Tab.1.bottom/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892606709" />
+    <state width="2518" height="466" key="GridCell.Tab.1.center" timestamp="1595113955762">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.1.center/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
+    <state width="2518" height="466" key="GridCell.Tab.1.center/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955762" />
+    <state width="2518" height="468" key="GridCell.Tab.1.center/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892606708" />
+    <state width="2518" height="466" key="GridCell.Tab.1.left" timestamp="1595113955761">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.1.left/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
+    <state width="2518" height="466" key="GridCell.Tab.1.left/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
+    <state width="2518" height="468" key="GridCell.Tab.1.left/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892606707" />
+    <state width="2518" height="466" key="GridCell.Tab.1.right" timestamp="1595113955762">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state width="1750" height="346" key="GridCell.Tab.1.right/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841240" />
+    <state width="2518" height="466" key="GridCell.Tab.1.right/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955762" />
+    <state width="2518" height="468" key="GridCell.Tab.1.right/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892606709" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Iterative_Alignment/IterativeAlignment.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Additional_Models_for_IEDB_Data$IterativeAlignment.coverage" NAME="IterativeAlignment Coverage Results" MODIFIED="1594283762875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
+    <SUITE FILE_PATH="coverage/Additional_Models_for_IEDB_Data$Process.coverage" NAME="Process Coverage Results" MODIFIED="1594362058316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
+  </component>
+</project>
