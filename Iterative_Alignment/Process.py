@@ -24,7 +24,8 @@ data = pd.read_csv(root, sep="	",
 # hi_result = []
 result = pd.DataFrame([])
 for i, row in data.iterrows():
-    if data[data.columns[4]][i] != "=" or data[data.columns[2]][i] != 9 or data[data.columns[1]][i] != "HLA-A*02:01":
+    #if data[data.columns[4]][i] != "=" or data[data.columns[2]][i] != 9 or data[data.columns[1]][i] != "HLA-A*02:01":
+    if data[data.columns[4]][i] != "=":
         continue
     result = result.append(pd.DataFrame({data.columns.values[3]: data[data.columns[3]][i],
                                          data.columns.values[5]: -1 * math.log10(data[data.columns[5]][i])},
@@ -35,6 +36,12 @@ for i, row in data.iterrows():
     #     hi_result.append([char for char in seq])
     # elif s <= lower_bound:
     #     low_result.append([char for char in seq])
+
+file = open('filtered_bdata.20130222.csv', 'a+', newline='')
+# writing the data into the file
+with file:
+    write = csv.writer(file)
+    write.writerows(result)
 
 result.set_index('sequence', inplace=True)
 names = result.index.values.tolist()
