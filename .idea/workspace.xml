@@ -4,290 +4,14 @@
     <list default="true" id="2fd62208-56ce-4e06-a54f-99933c96a6d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Additional Models for IEDB Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Additional Models for IEDB Data.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/tss_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/tss_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0101_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0101_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0101_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0101_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0301_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0301_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0301_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0301_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0401_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0401_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0401_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0701_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0701_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0701_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0701_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0701_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0901_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0901_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0901_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0901_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-A*0901_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*0101_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*0101_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*0101_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*0101_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*0101_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*0901_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*1301_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*1301_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*1301_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*1301_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*1301_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*1701_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*1701_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*2401_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*2401_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datachimpanzee_Patr-B*2401_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-AW10_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-D18.4_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-HD6_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-HD6_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-JSP.1_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-JSP.1_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-T2C_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-T2a_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacow_BoLA-T2b_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datagorilla_Gogo-B*0101_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datagorilla_Gogo-B*0101_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahorse_ELA-A1_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*01:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:03_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:04_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:04_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:05_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:05_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:05_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:05_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:06_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:07_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:07_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:07_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:11_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:11_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:12_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:12_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:16_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:16_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:17_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:17_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:19_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:19_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*02:50_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:02_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:02_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*03:19_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*11:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*23:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:03_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:03_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*24:03_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*25:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*25:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:02_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:02_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*26:03_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*29:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*30:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*31:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:07_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*32:15_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*33:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*66:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*66:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*66:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*66:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*66:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:02_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:23_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*68:23_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*69:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*69:01_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*69:01_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*69:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*74:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*80:01_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A*80:01_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A11_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A11_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A11_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A1_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A24_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A26_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A2_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A2_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A2_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A2_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A3_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datahuman_HLA-A3_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/old/StrongPeps.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/StrongPeps.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/old/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/old/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/old/ngs_test_set.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/old/ngs_test_set.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/old/ngs_train_set.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/old/ngs_train_set.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/old/tss_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/old/tss_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression on Physiochemical Props/tss_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/tss_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filtered_data/chimpanzee_Patr-A*0101_9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/chimpanzee_Patr-A*0101_9.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,14 +64,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Linear Regression on Physiochemical Props" />
+      <recent name="$PROJECT_DIR$/Iterative_Alignment/peps/1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Iterative_Alignment/peps/1" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="IterativeAlignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Additional Models for IEDB Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -392,6 +117,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Additional Models for IEDB Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Additional Models for IEDB Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -416,6 +163,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.Process" />
         <item itemvalue="Python.IterativeAlignment" />
@@ -450,12 +198,24 @@
       <workItem from="1597113136461" duration="135000" />
       <workItem from="1597113353140" duration="1631000" />
       <workItem from="1597176663292" duration="12000" />
-      <workItem from="1597282905961" duration="992000" />
+      <workItem from="1597282905961" duration="4952000" />
     </task>
+    <task id="LOCAL-00001" summary="checking out linear regression">
+      <created>1597284615874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597284615874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checking out linear regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking out linear regression" />
   </component>
   <component name="WindowStateProjectService">
     <state x="979" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593591186392">
@@ -473,7 +233,11 @@
     </state>
     <state x="179" y="449" key="#xdebugger.XInspectDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283155197" />
     <state x="179" y="450" key="#xdebugger.XInspectDialog/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592888158190" />
-    <state width="2518" height="379" key="GridCell.Tab.0.bottom" timestamp="1597121216365">
+    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1597284615315">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597284615315" />
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom" timestamp="1597292679901">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -482,8 +246,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.bottom/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.bottom/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="379" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597121216365" />
-    <state width="2518" height="379" key="GridCell.Tab.0.center" timestamp="1597121216364">
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597292679901" />
+    <state width="2518" height="379" key="GridCell.Tab.0.center" timestamp="1597292679900">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -492,8 +256,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.center/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.center/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.center/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791505" />
-    <state width="2518" height="379" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597121216364" />
-    <state width="2518" height="379" key="GridCell.Tab.0.left" timestamp="1597121216364">
+    <state width="2518" height="379" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597292679900" />
+    <state width="2518" height="379" key="GridCell.Tab.0.left" timestamp="1597292679900">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -502,8 +266,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.left/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.left/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.left/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791504" />
-    <state width="2518" height="379" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597121216364" />
-    <state width="2518" height="379" key="GridCell.Tab.0.right" timestamp="1597121216364">
+    <state width="2518" height="379" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597292679900" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right" timestamp="1597292679900">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -512,7 +276,7 @@
     <state width="2518" height="379" key="GridCell.Tab.0.right/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.right/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.right/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="379" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597121216364" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597292679900" />
     <state width="2518" height="466" key="GridCell.Tab.1.bottom" timestamp="1595113955762">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
@@ -541,6 +305,10 @@
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="781" y="327" key="SettingsEditor/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1596647543794" />
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1597284621751">
+      <screen x="0" y="23" width="2560" height="1331" />
+    </state>
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1597284621751" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -557,6 +325,7 @@
     <SUITE FILE_PATH="coverage/IALR$Process.coverage" NAME="Process Coverage Results" MODIFIED="1595922448744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
     <SUITE FILE_PATH="coverage/Additional_Models_for_IEDB_Data$IterativeAlignment.coverage" NAME="IterativeAlignment Coverage Results" MODIFIED="1594283762875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
     <SUITE FILE_PATH="coverage/Additional_Models_for_IEDB_Data$Process.coverage" NAME="Process Coverage Results" MODIFIED="1594362058316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
+    <SUITE FILE_PATH="coverage/IALR$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1597292679892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
     <SUITE FILE_PATH="coverage/IALR$main.coverage" NAME="main Coverage Results" MODIFIED="1597120545522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear Regression on Physiochemical Props" />
   </component>
 </project>
