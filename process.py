@@ -30,6 +30,8 @@ for i, row in data.iterrows():
 filtered = pd.read_csv('/Users/mabochen/Desktop/Research/IALR/filtering.csv', sep=',',
                    header=None, names=['species', 'mhc', 'peptide_length', 'sequence', 'meas'], skiprows=1)
 
+filtered.to_csv('/Users/mabochen/Desktop/Research/IALR/data')
+
 # separate by allele
 gb = filtered.groupby(['species', 'mhc', 'peptide_length'])
 for name, group in gb:
