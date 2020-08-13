@@ -14,8 +14,8 @@ class TSS_Calculator(object):
         self.matrices = dict.fromkeys(self.cluster_keys)
         self.total_scores = None
         self.dist = None
-        for key in self.cluster_keys:
-            self.matrices[key] = pd.read_csv("./dist_matrices/cluster_" + key + ".csv", index_col=0)
+        # for key in self.cluster_keys:
+        #     self.matrices[key] = pd.read_csv("./dist_matrices/cluster_" + key + ".csv", index_col=0)
         if TSS_path is not None:
             self.import_TSS(TSS_path)
         self.__store_values(p, b, seq_as_string)
@@ -30,7 +30,7 @@ class TSS_Calculator(object):
                 self.p = self.p.set_index("Unnamed: 0")
             if not seq_as_string: self.length = len(list(self.p.columns))
             if seq_as_string:
-                self.peptides = list(self.p['AA_seq'])
+                self.peptides = list(self.p['sequence'])
                 self.length = len(self.peptides[0])
             else:
                 self.peptides = [''.join(list(self.p.iloc[m, :]))
@@ -42,7 +42,8 @@ class TSS_Calculator(object):
                 self.b = self.b.set_index("Unnamed: 0")
             self.length = len(list(self.b.columns))
             if seq_as_string:
-                self.binders = list(self.b['AA_seq'])
+                self.binders = list(self.b['sequence'])
+                print(self.b)
                 self.length = len(self.peptides[0])
             else:
                 self.binders = [''.join(list(self.b.iloc[m, :]))
@@ -59,8 +60,8 @@ class TSS_Calculator(object):
             for AA1 in self.AA:
                 self.dist[key][AA1] = dict.fromkeys(self.AA)
                 self.total_scores[key][AA1] = dict.fromkeys(range(self.length))
-                for AA2 in self.AA:
-                    self.dist[key][AA1][AA2] = self.matrices[key][AA1][AA2]
+                # for AA2 in self.AA:
+                #     self.dist[key][AA1][AA2] = self.matrices[key][AA1][AA2]
                 for l in range(self.length):
                     self.total_scores[key][AA1][l] = sum(self.dist[key][AA1] \
                                                              [self.binders[n][l]] for n in range(self.bin_num))
@@ -72,10 +73,10 @@ class TSS_Calculator(object):
         for m in range(self.pep_num):
             if self.peptides[m] in self.binders:
                 binder_index = self.binders.index(self.peptides[m])
-                for i, key in enumerate(self.cluster_keys):
-                    np_ss[m][i] = -sum(self.matrices[key][self.peptides[m][l]]
-                                       [self.binders[binder_index][l]]
-                                       for l in range(self.length))
+                # for i, key in enumerate(self.cluster_keys):
+                #     np_ss[m][i] = -sum(self.matrices[key][self.peptides[m][l]]
+                #                        [self.binders[binder_index][l]]
+                #                        for l in range(self.length))
             for i, key in enumerate(self.cluster_keys):
                 np_ss[m][i] += sum(self.binder_scores[key][self.peptides[m][l]][l] \
                                    for l in range(self.length))

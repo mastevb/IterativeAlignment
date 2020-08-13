@@ -78,17 +78,17 @@ def get_model(data, state):
 def get_linreg_models(peps, bind, count, seed):
     # p_n = format_data(discrim(peps, count))
     # p_n = format_data(peps, count)
+    p_n = format_data(peps)
     b_n = format_data(bind)
     # print(p_n.head())
     print(b_n.head())
     # p_TRAIN, p_TEST = train_test_split(p_n, test_size=0.2, train_size=0.8, random_state=seed)
     b_n, b_test = train_test_split(b_n, test_size=0.8, random_state=seed)
-    TSS[count] = get_TSS(None, b_n)
+    TSS[count] = get_TSS(p_n, b_n)
     out_TSS(TSS[count], count)
     for j in range(5):
         print("Counts > " + str(count) + ": CV" + str(j + 1))
-        # data = TSS[count].merge(p_n, left_on=TSS[count].index, right_on=SEQ)
-        data = TSS[count]
+        data = TSS[count].merge(p_n, left_on=TSS[count].index, right_on=SEQ)
         data.set_index(SEQ)
         LIN_REG_MODELS[count][j] = get_model(data, j)
 
