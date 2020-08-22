@@ -82,9 +82,9 @@ def get_linreg_models(peps, bind, count, seed):
     b_n = format_data(bind)
     # print(p_n.head())
     print(b_n.head())
-    # p_TRAIN, p_TEST = train_test_split(p_n, test_size=0.2, train_size=0.8, random_state=seed)
+    p_TRAIN, p_TEST = train_test_split(p_n, test_size=0.2, train_size=0.8, random_state=seed)
     b_n, b_test = train_test_split(b_n, test_size=0.8, random_state=seed)
-    TSS[count] = get_TSS(p_n, b_n)
+    TSS[count] = get_TSS(p_TRAIN, b_n)
     out_TSS(TSS[count], count)
     for j in range(5):
         print("Counts > " + str(count) + ": CV" + str(j + 1))
