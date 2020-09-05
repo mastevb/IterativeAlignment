@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fd62208-56ce-4e06-a54f-99933c96a6d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Iterative_Alignment/correlate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/correlate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <recent name="$PROJECT_DIR$/Iterative_Alignment/peps/1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.correlate">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="IterativeAlignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Additional Models for IEDB Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,8 +180,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.correlate" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.correlate" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.Process" />
         <item itemvalue="Python.IterativeAlignment" />
@@ -222,7 +220,8 @@
       <workItem from="1597282905961" duration="8859000" />
       <workItem from="1597425284878" duration="5136000" />
       <workItem from="1598085034268" duration="1376000" />
-      <workItem from="1598996370487" duration="3650000" />
+      <workItem from="1598996370487" duration="4997000" />
+      <workItem from="1599332231832" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="checking out linear regression">
       <created>1597284615874</created>
@@ -273,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598086375715</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add correlate">
+      <created>1599017042583</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599017042583</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +291,8 @@
     <MESSAGE value="made some changes" />
     <MESSAGE value="got result" />
     <MESSAGE value="fixing cross validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing cross validation" />
+    <MESSAGE value="add correlate" />
+    <option name="LAST_COMMIT_MESSAGE" value="add correlate" />
   </component>
   <component name="WindowStateProjectService">
     <state x="979" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593591186392">
@@ -303,11 +310,11 @@
     </state>
     <state x="179" y="449" key="#xdebugger.XInspectDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283155197" />
     <state x="179" y="450" key="#xdebugger.XInspectDialog/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592888158190" />
-    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1598086375495">
+    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1599017042290">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1598086375495" />
-    <state width="2518" height="379" key="GridCell.Tab.0.bottom" timestamp="1598999949213">
+    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599017042290" />
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom" timestamp="1599090750162">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -316,8 +323,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.bottom/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.bottom/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="379" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1598999949213" />
-    <state width="2518" height="379" key="GridCell.Tab.0.center" timestamp="1598999949212">
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750162" />
+    <state width="2518" height="379" key="GridCell.Tab.0.center" timestamp="1599090750161">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -326,8 +333,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.center/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.center/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.center/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791505" />
-    <state width="2518" height="379" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1598999949212" />
-    <state width="2518" height="379" key="GridCell.Tab.0.left" timestamp="1598999949211">
+    <state width="2518" height="379" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750161" />
+    <state width="2518" height="379" key="GridCell.Tab.0.left" timestamp="1599090750161">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -336,8 +343,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.left/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.left/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.left/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791504" />
-    <state width="2518" height="379" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1598999949211" />
-    <state width="2518" height="379" key="GridCell.Tab.0.right" timestamp="1598999949212">
+    <state width="2518" height="379" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750161" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right" timestamp="1599090750162">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -346,7 +353,7 @@
     <state width="2518" height="379" key="GridCell.Tab.0.right/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.right/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.right/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="379" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1598999949212" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750162" />
     <state width="2518" height="466" key="GridCell.Tab.1.bottom" timestamp="1595113955762">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
@@ -375,10 +382,10 @@
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="781" y="327" key="SettingsEditor/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1596647543794" />
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1598086380068">
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1599017044970">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1598086380068" />
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599017044970" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
