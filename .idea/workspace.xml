@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fd62208-56ce-4e06-a54f-99933c96a6d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_b.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_c.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_e.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_h.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_i.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_p.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_r.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +228,7 @@
       <workItem from="1597425284878" duration="5136000" />
       <workItem from="1598085034268" duration="1376000" />
       <workItem from="1598996370487" duration="4997000" />
-      <workItem from="1599332231832" duration="481000" />
+      <workItem from="1599332231832" duration="2060000" />
     </task>
     <task id="LOCAL-00001" summary="checking out linear regression">
       <created>1597284615874</created>
@@ -279,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599017042583</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added data">
+      <created>1599332956518</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599332956518</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +306,8 @@
     <MESSAGE value="got result" />
     <MESSAGE value="fixing cross validation" />
     <MESSAGE value="add correlate" />
-    <option name="LAST_COMMIT_MESSAGE" value="add correlate" />
+    <MESSAGE value="added data" />
+    <option name="LAST_COMMIT_MESSAGE" value="added data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="979" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593591186392">
@@ -310,10 +325,10 @@
     </state>
     <state x="179" y="449" key="#xdebugger.XInspectDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283155197" />
     <state x="179" y="450" key="#xdebugger.XInspectDialog/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592888158190" />
-    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1599017042290">
+    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1599332956179">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599017042290" />
+    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599332956179" />
     <state width="2518" height="379" key="GridCell.Tab.0.bottom" timestamp="1599090750162">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
@@ -382,10 +397,10 @@
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="781" y="327" key="SettingsEditor/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1596647543794" />
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1599017044970">
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1599332959174">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599017044970" />
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599332959174" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,7 +418,7 @@
     <SUITE FILE_PATH="coverage/IALR$Process.coverage" NAME="Process Coverage Results" MODIFIED="1595922448744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
     <SUITE FILE_PATH="coverage/IALR$correlate.coverage" NAME="correlate Coverage Results" MODIFIED="1598999949205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
     <SUITE FILE_PATH="coverage/Additional_Models_for_IEDB_Data$Process.coverage" NAME="Process Coverage Results" MODIFIED="1594362058316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
-    <SUITE FILE_PATH="coverage/IALR$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1598086472702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
+    <SUITE FILE_PATH="coverage/IALR$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1599332884942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
     <SUITE FILE_PATH="coverage/IALR$main.coverage" NAME="main Coverage Results" MODIFIED="1597120545522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear Regression on Physiochemical Props" />
   </component>
 </project>
