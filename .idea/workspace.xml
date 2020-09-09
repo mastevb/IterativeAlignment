@@ -2,15 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fd62208-56ce-4e06-a54f-99933c96a6d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_a.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_b.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_c.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_e.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_h.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_i.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_p.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/dist_matrices/cluster_r.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv0_TRAIN.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv1_TRAIN.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv2_TRAIN.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv3_TRAIN.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv4_TRAIN.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/TSS_C1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/TSS_C2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/TSS_C3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/TSS_C4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv0_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv1_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv2_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv3_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv4_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+1_cv0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+1_cv1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+1_cv2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+1_cv3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+1_cv4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+2_cv0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+2_cv1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+2_cv2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+2_cv3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+2_cv4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+3_cv0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+3_cv1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+3_cv2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+3_cv3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+3_cv4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+4_cv0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+4_cv1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+4_cv2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+4_cv3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+4_cv4.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +255,8 @@
       <workItem from="1597425284878" duration="5136000" />
       <workItem from="1598085034268" duration="1376000" />
       <workItem from="1598996370487" duration="4997000" />
-      <workItem from="1599332231832" duration="2060000" />
+      <workItem from="1599332231832" duration="7130000" />
+      <workItem from="1599594597381" duration="4558000" />
     </task>
     <task id="LOCAL-00001" summary="checking out linear regression">
       <created>1597284615874</created>
@@ -293,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599332956518</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added data">
+      <created>1599334579184</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599334579184</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,22 +349,23 @@
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="979" y="498" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1331@0.23.2560.1331" timestamp="1593591186392" />
-    <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594360634486">
+    <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599616025181">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1331/-1366.439.1366.1001@0.23.2560.1331" timestamp="1594360634486" />
     <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594195470358" />
     <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1331@0.23.2560.1331" timestamp="1594197315793" />
+    <state x="1018" y="442" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616025181" />
     <state x="179" y="449" key="#xdebugger.XInspectDialog" timestamp="1594283155197">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="179" y="449" key="#xdebugger.XInspectDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283155197" />
     <state x="179" y="450" key="#xdebugger.XInspectDialog/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592888158190" />
-    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1599332956179">
+    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1599334578806">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599332956179" />
-    <state width="2518" height="379" key="GridCell.Tab.0.bottom" timestamp="1599090750162">
+    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599334578806" />
+    <state width="2518" height="323" key="GridCell.Tab.0.bottom" timestamp="1599616169686">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -338,8 +374,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.bottom/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.bottom/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="379" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750162" />
-    <state width="2518" height="379" key="GridCell.Tab.0.center" timestamp="1599090750161">
+    <state width="2518" height="323" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169686" />
+    <state width="2518" height="323" key="GridCell.Tab.0.center" timestamp="1599616169685">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -348,8 +384,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.center/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.center/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.center/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791505" />
-    <state width="2518" height="379" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750161" />
-    <state width="2518" height="379" key="GridCell.Tab.0.left" timestamp="1599090750161">
+    <state width="2518" height="323" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169685" />
+    <state width="2518" height="323" key="GridCell.Tab.0.left" timestamp="1599616169684">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -358,8 +394,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.left/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.left/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.left/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791504" />
-    <state width="2518" height="379" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750161" />
-    <state width="2518" height="379" key="GridCell.Tab.0.right" timestamp="1599090750162">
+    <state width="2518" height="323" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169684" />
+    <state width="2518" height="323" key="GridCell.Tab.0.right" timestamp="1599616169686">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -368,7 +404,7 @@
     <state width="2518" height="379" key="GridCell.Tab.0.right/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.right/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.right/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="379" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599090750162" />
+    <state width="2518" height="323" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169686" />
     <state width="2518" height="466" key="GridCell.Tab.1.bottom" timestamp="1595113955762">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
@@ -397,10 +433,10 @@
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="781" y="327" key="SettingsEditor/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1596647543794" />
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1599332959174">
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1599334581361">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599332959174" />
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599334581361" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -418,7 +454,7 @@
     <SUITE FILE_PATH="coverage/IALR$Process.coverage" NAME="Process Coverage Results" MODIFIED="1595922448744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
     <SUITE FILE_PATH="coverage/IALR$correlate.coverage" NAME="correlate Coverage Results" MODIFIED="1598999949205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
     <SUITE FILE_PATH="coverage/Additional_Models_for_IEDB_Data$Process.coverage" NAME="Process Coverage Results" MODIFIED="1594362058316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterative_Alignment" />
-    <SUITE FILE_PATH="coverage/IALR$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1599332884942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
+    <SUITE FILE_PATH="coverage/IALR$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1599616169678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props" />
     <SUITE FILE_PATH="coverage/IALR$main.coverage" NAME="main Coverage Results" MODIFIED="1597120545522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear Regression on Physiochemical Props" />
   </component>
 </project>

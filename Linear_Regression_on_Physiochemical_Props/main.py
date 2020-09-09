@@ -33,7 +33,7 @@ pep = None
 bind = None
 count_discrim = None
 highest_count = None
-COUNTS = [0, 1, 2, 3, 4]
+COUNTS = [0]
 SEQ = "Sequence"
 TARGET = "Binding_Affinity"
 NUM_CV = 5
@@ -44,6 +44,7 @@ FEATURES = list("abcehipr")
 TEST = 0.2
 PRED = "Predicted"
 TSS = [None for count in COUNTS]
+PSS = [None for count in COUNTS]
 LIN_REG_MODELS = [[None for cv in range(NUM_CV)] for count in COUNTS]
 DATA = [[None for cv in range(NUM_CV)] for count in COUNTS]
 # -------------------------------LAMBDA FXNS-----------------------------------#
@@ -85,6 +86,7 @@ def get_linreg_models(peps, bind, count, seed):
     p_TRAIN, p_TEST = train_test_split(p_n, test_size=0.2, train_size=0.8, random_state=seed)
     b_n, b_test = train_test_split(b_n, test_size=0.8, random_state=seed)
     TSS[count] = get_TSS(p_TRAIN, b_n)
+    PSS[count] = get_TSS(p_TEST, b_test)
     out_TSS(TSS[count], count)
     for j in range(5):
         print("Counts > " + str(count) + ": CV" + str(j + 1))
@@ -95,21 +97,35 @@ def get_linreg_models(peps, bind, count, seed):
 
 def predict_and_classify(count):
     tss = TSS[count]
+    pss = PSS[count]
     X = tss[FEATURES]
+    Y = pss[FEATURES]
     scaler = MinMaxScaler(feature_range=(0, 1), copy=True)
     for j in range(5):
         model = LIN_REG_MODELS[count][j]
         XT = pd.DataFrame(scaler.fit_transform(X[FEATURES], [0, 1]), index=X.index, columns=FEATURES)
-        pred = model.predict(XT[FEATURES])
-        pred = np.interp(pred, (pred.min(), pred.max()), (0, 20))
-        XT['pred'] = pred
+        YT = pd.DataFrame(scaler.fit_transform(Y[FEATURES], [0, 1]), index=Y.index, columns=FEATURES)
+        predX = model.predict(XT[FEATURES])
+        predX = np.interp(predX, (predX.min(), predX.max()), (0, 20))
+        predY = model.predict(YT[FEATURES])
+        predY = np.interp(predY, (predY.min(), predY.max()), (0, 20))
+        XT['pred'] = predX
         conditions = [(XT['pred'] >= 0) & (XT['pred'] < WEAK_UPPER),
                       (XT['pred'] >= 7) & (XT['pred'] < MED_UPPER),
                       (XT['pred'] <= STRONG_UPPER)]
         choices = ['Weak', 'Medium', 'Strong']
         XT['Class'] = np.select(conditions, choices, default='Weak')
         DATA[count][j] = XT
-        XT.to_csv('model_count+' + str(count) + '_cv' + str(j) + '.csv')
+        XT.to_csv('model_count+' + str(count) + '_cv' + str(j) + '_TRAIN' + '.csv')
+        #
+        YT['pred'] = predY
+        conditions = [(YT['pred'] >= 0) & (YT['pred'] < WEAK_UPPER),
+                      (YT['pred'] >= 7) & (YT['pred'] < MED_UPPER),
+                      (YT['pred'] <= STRONG_UPPER)]
+        choices = ['Weak', 'Medium', 'Strong']
+        YT['Class'] = np.select(conditions, choices, default='Weak')
+        DATA[count][j] = YT
+        YT.to_csv('model_count+' + str(count) + '_cv' + str(j) + '_TEST' + '.csv')
 
 
 # -------------------------------MAIN------------------------------------------#
