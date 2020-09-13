@@ -26,9 +26,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LinearRegression
 import warnings
+import sys
 
 warnings.simplefilter(action='ignore', category=Warning)
 # ---------------------------------CONSTANTS-----------------------------------#
+NAME = None
 pep = None
 bind = None
 count_discrim = None
@@ -116,7 +118,7 @@ def predict_and_classify(count):
         choices = ['Weak', 'Medium', 'Strong']
         XT['Class'] = np.select(conditions, choices, default='Weak')
         DATA[count][j] = XT
-        XT.to_csv('model_count+' + str(count) + '_cv' + str(j) + '_TRAIN' + '.csv')
+        XT.to_csv('result/' + NAME + 'model_count+' + str(count) + '_cv' + str(j) + '_TRAIN' + '.csv')
         #
         YT['pred'] = predY
         conditions = [(YT['pred'] >= 0) & (YT['pred'] < WEAK_UPPER),
@@ -125,15 +127,21 @@ def predict_and_classify(count):
         choices = ['Weak', 'Medium', 'Strong']
         YT['Class'] = np.select(conditions, choices, default='Weak')
         DATA[count][j] = YT
-        YT.to_csv('model_count+' + str(count) + '_cv' + str(j) + '_TEST' + '.csv')
+        YT.to_csv('result/' + NAME + 'model_count+' + str(count) + '_cv' + str(j) + '_TEST' + '.csv')
 
 
 # -------------------------------MAIN------------------------------------------#
 if __name__ == "__main__":
     # step 1: input path of full peptide set:
     # pep = pd.read_csv(input("1. Path of peptides csv: "))
-    pep = pd.read_csv("/Users/mabochen/Desktop/Research/IALR/" +
-                      "Linear_Regression_on_Physiochemical_Props/chimpanzee_Patr-A*0101_9.csv")
+    # pep = pd.read_csv("/Users/mabochen/Desktop/Research/IALR/" +
+    #                   "Linear_Regression_on_Physiochemical_Props/chimpanzee_Patr-A*0101_9.csv")
+    NAME = str(sys.argv[1])
+    path = "/Users/mabochen/Desktop/Research/IALR/" + \
+           "Linear_Regression_on_Physiochemical_Props/" + NAME
+    NAME = NAME.split(".")[0]
+    print(NAME)
+    pep = pd.read_csv(path)
 
     # step 2: input path of full strong binder set:
     # bind = pd.read_csv(input("2. Path of binders csv: "))

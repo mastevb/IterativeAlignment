@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fd62208-56ce-4e06-a54f-99933c96a6d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/runner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv0_TEST.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv0_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv0_TRAIN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv0_TRAIN.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv1_TEST.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv1_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv1_TRAIN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv1_TRAIN.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv2_TEST.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv2_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv2_TRAIN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv2_TRAIN.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv3_TEST.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv3_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv3_TRAIN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv3_TRAIN.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv4_TEST.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv4_TEST.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/model_count+0_cv4_TRAIN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression_on_Physiochemical_Props/result/chimpanzee_Patr-A*0101_9model_count+0_cv4_TRAIN.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +233,8 @@
       <workItem from="1598085034268" duration="1376000" />
       <workItem from="1598996370487" duration="4997000" />
       <workItem from="1599332231832" duration="7130000" />
-      <workItem from="1599594597381" duration="6342000" />
+      <workItem from="1599594597381" duration="6712000" />
+      <workItem from="1600020273890" duration="1797000" />
     </task>
     <task id="LOCAL-00001" summary="checking out linear regression">
       <created>1597284615874</created>
@@ -300,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599616202596</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="example added">
+      <created>1599639583852</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599639583852</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,11 +354,11 @@
     </state>
     <state x="179" y="449" key="#xdebugger.XInspectDialog/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283155197" />
     <state x="179" y="450" key="#xdebugger.XInspectDialog/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592888158190" />
-    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1599616202273">
+    <state x="863" y="289" key="CommitChangelistDialog2" timestamp="1599639583573">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616202273" />
-    <state width="2518" height="323" key="GridCell.Tab.0.bottom" timestamp="1599616169686">
+    <state x="863" y="289" key="CommitChangelistDialog2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599639583573" />
+    <state width="2518" height="323" key="GridCell.Tab.0.bottom" timestamp="1599641238094">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -347,8 +367,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.bottom/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.bottom/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="323" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169686" />
-    <state width="2518" height="323" key="GridCell.Tab.0.center" timestamp="1599616169685">
+    <state width="2518" height="323" key="GridCell.Tab.0.bottom/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599641238094" />
+    <state width="2518" height="323" key="GridCell.Tab.0.center" timestamp="1599641238093">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -357,8 +377,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.center/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.center/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.center/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791505" />
-    <state width="2518" height="323" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169685" />
-    <state width="2518" height="323" key="GridCell.Tab.0.left" timestamp="1599616169684">
+    <state width="2518" height="323" key="GridCell.Tab.0.center/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599641238093" />
+    <state width="2518" height="323" key="GridCell.Tab.0.left" timestamp="1599641238093">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -367,8 +387,8 @@
     <state width="2518" height="379" key="GridCell.Tab.0.left/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776633" />
     <state width="2518" height="466" key="GridCell.Tab.0.left/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955760" />
     <state width="2518" height="381" key="GridCell.Tab.0.left/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791504" />
-    <state width="2518" height="323" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169684" />
-    <state width="2518" height="323" key="GridCell.Tab.0.right" timestamp="1599616169686">
+    <state width="2518" height="323" key="GridCell.Tab.0.left/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599641238093" />
+    <state width="2518" height="323" key="GridCell.Tab.0.right" timestamp="1599641238093">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state width="1750" height="346" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1592941841239" />
@@ -377,7 +397,7 @@
     <state width="2518" height="379" key="GridCell.Tab.0.right/0.23.2560.1331/-1366.578.1366.1001@0.23.2560.1331" timestamp="1594283776634" />
     <state width="2518" height="466" key="GridCell.Tab.0.right/0.23.2560.1331@0.23.2560.1331" timestamp="1595113955761" />
     <state width="2518" height="381" key="GridCell.Tab.0.right/0.23.2560.1335/2560.439.1366.1001@0.23.2560.1335" timestamp="1592892791506" />
-    <state width="2518" height="323" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616169686" />
+    <state width="2518" height="323" key="GridCell.Tab.0.right/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599641238093" />
     <state width="2518" height="466" key="GridCell.Tab.1.bottom" timestamp="1595113955762">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
@@ -406,10 +426,10 @@
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
     <state x="781" y="327" key="SettingsEditor/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1596647543794" />
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1599616208560">
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2" timestamp="1599639586232">
       <screen x="0" y="23" width="2560" height="1331" />
     </state>
-    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599616208560" />
+    <state x="880" y="428" key="Vcs.Push.Dialog.v2/2560.-312.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1599639586232" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
