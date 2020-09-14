@@ -138,7 +138,7 @@ if __name__ == "__main__":
     #                   "Linear_Regression_on_Physiochemical_Props/chimpanzee_Patr-A*0101_9.csv")
     NAME = str(sys.argv[1])
     path = "/Users/mabochen/Desktop/Research/IALR/" + \
-           "Linear_Regression_on_Physiochemical_Props/" + NAME
+           "Linear_Regression_on_Physiochemical_Props/filtered_data/" + NAME
     NAME = NAME.split(".")[0]
     print(NAME)
     pep = pd.read_csv(path)
